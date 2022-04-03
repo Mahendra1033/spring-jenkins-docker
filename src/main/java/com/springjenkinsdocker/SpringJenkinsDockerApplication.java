@@ -11,7 +11,7 @@ public class SpringJenkinsDockerApplication {
 
 	@GetMapping("/")
 	public String home() {
-		return " Docker With Jenkins :) ";
+		return " Docker With Jenkins :) !!! (:";
 	}
 	
 	public static void main(String[] args) {
